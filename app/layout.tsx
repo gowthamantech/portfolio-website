@@ -9,7 +9,7 @@ import { ThemeProvider } from '@/components/ThemeProvider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://yoursite.vercel.app'),
+  metadataBase: new URL('https://portfolio-website-pjk1.vercel.app'),
   title: 'Gowthaman A | Portfolio & Resume',
   description:
     'Portfolio of Gowthaman A—B.Tech student in AI & Data Science. Aspiring engineer with experience in Gen AI, Python, and web development.',
