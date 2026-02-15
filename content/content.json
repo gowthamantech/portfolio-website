@@ -1,0 +1,65 @@
+{
+  "profile": {
+    "name": "Gowthaman A",
+    "title": "Student",
+    "tagline": "Aspiring AI Engineer | Building the future, one line of code at a time",
+    "bio": "I'm a B.Tech student in Artificial Intelligence and Data Science with a passion for building practical applications. From online voting systems to Gen AI internships, I'm constantly learning and pushing my limits. I believe in learning by doing—every project is a step toward mastering the craft.",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/gowthaman-a-8218262b9/",
+    "github": "https://github.com/gowthamantech",
+    "email": "agowthaman11tech@gmail.com",
+    "location": "Chennai, India"
+  },
+  "skills": [
+    { "name": "Python", "category": "Language", "level": "Beginner" },
+    { "name": "C", "category": "Language", "level": "Beginner" },
+    { "name": "Java", "category": "Language", "level": "Beginner" },
+    { "name": "HTML", "category": "Frontend", "level": "Beginner" },
+    { "name": "CSS", "category": "Frontend", "level": "Beginner" },
+    { "name": "JavaScript", "category": "Language", "level": "Beginner" }
+  ],
+  "achievements": [
+    {
+      "title": "Gen AI Internship Certification",
+      "date": "2024",
+      "issuer": "Altruisty Innovation Private Limited",
+      "description": "Completed a 15-day internship in Generative AI, gaining hands-on experience in cutting-edge AI technologies.",
+      "url": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Online Voting System",
+      "description": "A secure online voting system built to streamline the voting process. Developed as part of my learning journey in software development.",
+      "tech": ["Python", "HTML", "CSS", "JavaScript"],
+      "url": "",
+      "github": "https://github.com/gowthamantech",
+      "image": ""
+    },
+    {
+      "title": "To-Do App",
+      "description": "A task management application to organize daily activities. Currently in development—building practical skills while creating something useful.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "url": "",
+      "github": "https://github.com/gowthamantech",
+      "image": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Gen AI Intern",
+      "company": "Altruisty Innovation Private Limited",
+      "period": "15 days",
+      "description": "Completed an intensive internship in Generative AI, working on real-world applications and gaining industry exposure in the AI space.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Artificial Intelligence and Data Science",
+      "institution": "Rajalakshmi Engineering College, Chennai",
+      "period": "Ongoing",
+      "description": "Pursuing a degree focused on AI, machine learning, and data science—combining theory with hands-on projects."
+    }
+  ]
+}
