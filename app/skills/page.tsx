@@ -1,7 +1,7 @@
 import { SkillCard } from '@/components/SkillCard';
 import { content } from '@/lib/content';
 
-const categories = [...new Set(content.skills.map((s) => s.category))];
+const categories = Array.from(new Set(content.skills.map((s) => s.category)));
 
 export default function SkillsPage() {
   return (
